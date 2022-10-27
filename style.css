@@ -7,6 +7,7 @@ h1{
   text-align: center;
   padding-top: 5px;
 }
+
 .center{
   margin-top: 5px;
 }
@@ -41,7 +42,7 @@ a:hover{
 }
 /*navigation bar styling*/
 main{
-  background-color: rgb(171, 216, 187);
+  background-color: rgb(111, 147, 137);
   margin-left: 10%;
   margin-right: 10%;
   margin-top: 5rem;
@@ -86,6 +87,7 @@ span#minor{
 #row1{
   display: grid;
   grid-template-columns: 50% 50%;
+  grid-row-gap:50px;
 }
 footer{
   background-color: #dddddd;
