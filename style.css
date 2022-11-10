@@ -21,11 +21,10 @@ h1{
   align-items: center;
 }
 #navbar{
+  font-family: fantasy;
   width: 100%;
   display: flex;
   justify-content: space-around;
-}
-#navbar {
   background-color: #dddddd;
   margin: 0;
   padding: 0;
